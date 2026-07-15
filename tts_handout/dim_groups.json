@@ -1,0 +1,1538 @@
+{
+  "0": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "1": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "2": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "3": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "4": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "5": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "6": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "7": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.09745043516159058,
+    "prosody_score": 17.94751449500233
+  },
+  "8": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "9": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "10": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "11": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "12": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "13": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "14": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "15": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.24614471197128296,
+    "prosody_score": 2.216141255750076
+  },
+  "16": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "17": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "18": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "19": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "20": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "21": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "22": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "23": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.11154800653457642,
+    "prosody_score": 0.2974188084056863
+  },
+  "24": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "25": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "26": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "27": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "28": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "29": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "30": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "31": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.2184351682662964,
+    "prosody_score": 16.68877273321079
+  },
+  "32": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "33": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "34": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "35": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "36": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "37": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "38": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "39": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2038050889968872,
+    "prosody_score": 0.6658024102731496
+  },
+  "40": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "41": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "42": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "43": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "44": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "45": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "46": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "47": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.20456409454345703,
+    "prosody_score": 0.30880879978315506
+  },
+  "48": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "49": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "50": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "51": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "52": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "53": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "54": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "55": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12586522102355957,
+    "prosody_score": 0.5669368852554293
+  },
+  "56": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "57": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "58": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "59": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "60": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "61": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "62": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "63": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1348361372947693,
+    "prosody_score": 0.4818994438840548
+  },
+  "64": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "65": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "66": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "67": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "68": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "69": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "70": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "71": {
+    "label": "mixed",
+    "step_multiplier": 1.0,
+    "sim_drop": 0.1930726170539856,
+    "prosody_score": 15.225973078798956
+  },
+  "72": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "73": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "74": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "75": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "76": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "77": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "78": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "79": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.12684160470962524,
+    "prosody_score": 0.09611343668215327
+  },
+  "80": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "81": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "82": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "83": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "84": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "85": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "86": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "87": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1454148292541504,
+    "prosody_score": 0.2939053645618081
+  },
+  "88": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "89": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "90": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "91": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "92": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "93": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "94": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "95": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.14688920974731445,
+    "prosody_score": 0.571993670519862
+  },
+  "96": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "97": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "98": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "99": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "100": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "101": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "102": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "103": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.2084362506866455,
+    "prosody_score": 0.49944699113812807
+  },
+  "104": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "105": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "106": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "107": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "108": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "109": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "110": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "111": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.1651618480682373,
+    "prosody_score": 0.5544416513246716
+  },
+  "112": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "113": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "114": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "115": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "116": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "117": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "118": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "119": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.11645525693893433,
+    "prosody_score": 44.147414937826
+  },
+  "120": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "121": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "122": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "123": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "124": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "125": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "126": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "127": {
+    "label": "timbre",
+    "step_multiplier": 2.0,
+    "sim_drop": 0.15574467182159424,
+    "prosody_score": 0.4075750570575807
+  },
+  "128": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "129": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "130": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "131": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "132": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "133": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "134": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "135": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.043657541275024414,
+    "prosody_score": 2.3950471539787266
+  },
+  "136": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "137": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "138": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "139": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "140": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "141": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "142": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "143": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.04764223098754883,
+    "prosody_score": 2.419922380320167
+  },
+  "144": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "145": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "146": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "147": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "148": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "149": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "150": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "151": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03965866565704346,
+    "prosody_score": 1.2538987025864297
+  },
+  "152": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "153": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "154": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "155": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "156": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "157": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "158": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "159": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03364330530166626,
+    "prosody_score": 0.7539860741245475
+  },
+  "160": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "161": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "162": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "163": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "164": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "165": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "166": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "167": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.023714959621429443,
+    "prosody_score": 1.611005076425331
+  },
+  "168": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "169": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "170": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "171": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "172": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "173": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "174": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "175": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.02761298418045044,
+    "prosody_score": 2.7134550371879813
+  },
+  "176": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "177": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "178": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "179": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "180": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "181": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "182": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "183": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.051899611949920654,
+    "prosody_score": 0.5774020553352996
+  },
+  "184": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "185": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "186": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "187": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "188": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "189": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "190": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "191": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.050358712673187256,
+    "prosody_score": 2.5225364760635
+  },
+  "192": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "193": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "194": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "195": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "196": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "197": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "198": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "199": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.050408363342285156,
+    "prosody_score": 1.371289753121061
+  },
+  "200": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "201": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "202": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "203": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "204": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "205": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "206": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "207": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.06661349534988403,
+    "prosody_score": 2.712148596120294
+  },
+  "208": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "209": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "210": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "211": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "212": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "213": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "214": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "215": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.031193971633911133,
+    "prosody_score": 2.722784183660771
+  },
+  "216": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "217": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "218": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "219": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "220": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "221": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "222": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "223": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04221928119659424,
+    "prosody_score": 1.054336685797316
+  },
+  "224": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "225": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "226": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "227": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "228": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "229": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "230": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "231": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.03256112337112427,
+    "prosody_score": 1.099386558360011
+  },
+  "232": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "233": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "234": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "235": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "236": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "237": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "238": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "239": {
+    "label": "prosody",
+    "step_multiplier": 0.5,
+    "sim_drop": 0.029791176319122314,
+    "prosody_score": 1.455888346528156
+  },
+  "240": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "241": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "242": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "243": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "244": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "245": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "246": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "247": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.04297703504562378,
+    "prosody_score": 0.8669733475101452
+  },
+  "248": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "249": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "250": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "251": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "252": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "253": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "254": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  },
+  "255": {
+    "label": "low_leverage",
+    "step_multiplier": 0.8,
+    "sim_drop": 0.021878957748413086,
+    "prosody_score": 0.4817091643271132
+  }
+}
